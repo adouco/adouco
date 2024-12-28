@@ -2,9 +2,10 @@
 - Other than that I like Python, JavaScript, TypeScript, C# and much more
 - Currently learning [***go.dev***](https://go.dev/) <3
 
-## Discord
+## Socials
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/970332627221504081?theme=dark&bg=2b1e26&animated=false&borderRadius=30px)](https://discord.com/users/970332627221504081)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/970332627221504081?theme=dark&bg=2b1e26&animated=false&borderRadius=30px)](https://discord.com/users/970332627221504081) 
+![Overall Statistics](https://lastly.nisarga.me/api/overall?username=Vendinge&period=overall)
 
 <br>
 

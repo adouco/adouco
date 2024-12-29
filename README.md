@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="src/banner.png" alt="Banner Image" style="max-width: 100%; height: auto;">
+    <img src="src/blueban.png" alt="Banner Image" style="max-width: 100%; height: auto;">
 
 
  [***All you gotta know is that I'm super obsessed with Ado***](https://open.spotify.com/playlist/13cplfRx8zy6qhgHlo1pGd?si=A4UwIvKUS96_0yeI6oROuw) <br>
